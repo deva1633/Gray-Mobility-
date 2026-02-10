@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1-score,False Alert Rate,Detection Latency (sec)
+Rule-based,0.0,0.0,0.0,0.0,Not detected
+Isolation Forest,0.771,0.18,0.291,0.028,3
+PCA,0.632,0.092,0.16,0.028,2
